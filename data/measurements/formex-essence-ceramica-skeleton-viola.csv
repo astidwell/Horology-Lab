@@ -1,3 +1,4 @@
 timestamp_local,reference,offset_seconds,wear_hours_since_previous,rest_position,manual_winds,notes
 2026-08-16T22:10:00-05:00,time.gov,0,0,wrist,fully_wound,"Baseline synchronization; watch set exactly to reference at 10:10 PM CDT. User sleeps with watch on."
 2026-08-17T22:10:00-05:00,time.gov,-4,24,wrist,0,"Day 1 reading; worn continuously including sleep."
+2026-08-18T22:10:00-05:00,time.gov,-10,24,wrist,0,"Day 2 reading; worn continuously including sleep."
