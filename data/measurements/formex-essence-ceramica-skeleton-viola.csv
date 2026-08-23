@@ -5,3 +5,4 @@ timestamp_local,reference,offset_seconds,wear_hours_since_previous,rest_position
 2026-08-19T22:40:00-05:00,time.gov,-14,24.5,wrist,0,"Day 3 reading from iPhone photo taken at 10:40 PM CDT; cumulative offset confirmed by user as -14 seconds. Worn continuously including sleep."
 2026-08-20T22:10:00-05:00,time.gov,-18,23.5,wrist,0,"Day 4 reading; cumulative offset -18 seconds. Worn continuously including sleep."
 2026-08-21T22:10:00-05:00,time.gov,-22,24,wrist,0,"Day 5 reading; cumulative offset -22 seconds. Worn continuously including sleep."
+2026-08-22T22:09:00-05:00,time.gov,-26,23.983,wrist,0,"Day 6 reading; cumulative offset -26 seconds. Worn continuously including sleep."
