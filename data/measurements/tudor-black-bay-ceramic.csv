@@ -1,0 +1,5 @@
+timestamp_local,reference,offset_seconds,wear_hours_since_previous,rest_position,manual_winds,notes
+2026-08-24T22:10:00-05:00,time.gov,0,0,wrist,,Baseline: user synchronized to 0 seconds at 10:10 PM CDT. Same wrist-worn routine as Viola; winding count not reported.
+2026-08-25T22:10:00-05:00,time.gov,2,,wrist,,"Day 1: +2 seconds cumulative. User explicitly confirmed 10:10 PM, 24 hours after baseline. Exact wear hours and winding not separately reported."
+2026-08-26T22:10:00-05:00,time.gov,4,,wrist,,Day 2: +4 seconds cumulative. Timestamp assumes usual 10:10 PM CDT schedule; exact time not separately confirmed. Wear position follows stated routine; hours and winding unreported.
+2026-08-27T22:10:00-05:00,time.gov,7,,wrist,,"Day 3: +7 seconds cumulative, explicitly corrected by user from a -7 typo; not an actual loss. Timestamp assumes usual 10:10 PM CDT schedule; exact time not separately confirmed. Hours and winding unreported."

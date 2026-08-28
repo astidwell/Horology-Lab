@@ -16,11 +16,25 @@ See [`data/watches.csv`](data/watches.csv).
 
 ## Active experiment
 
-**Formex Essence Ceramica Skeleton COSC — Stradale Viola, 41 mm**
+**Tudor Black Bay Ceramic (BBC), reference 79210CNU**
 
-Data file: [`data/measurements/formex-essence-ceramica-skeleton-viola.csv`](data/measurements/formex-essence-ceramica-skeleton-viola.csv)
+- Baseline: 2026-08-24, 10:10 PM CDT; offset 0 seconds against time.gov.
+- Planned duration: 7-14 days, using the same wrist-worn routine as Viola.
+- [Measurement CSV](data/measurements/tudor-black-bay-ceramic.csv)
+- [Factory METAS results](data/certificates/tudor-black-bay-ceramic-metas.md)
 
-Factory COSC data: [`data/certificates/formex-essence-ceramica-skeleton-viola-cosc.md`](data/certificates/formex-essence-ceramica-skeleton-viola-cosc.md)
+Latest reading: **+7 seconds cumulative** on Day 3 (2026-08-27). Sequence: 0, +2, +4, +7 seconds. At the assumed daily 10:10 PM schedule, interval rates are +2, +2, +3 s/day and the overall rate is **+2.33 s/day**. The last two timestamps use the usual schedule and were not separately confirmed; see row notes. Rates are provisional on that basis.
+
+The observed average is 1.78 s/day lower than the factory +4.11 s/day result. Conditions differ, and three days are too few to establish long-term stability.
+
+## Completed experiment
+
+**Formex Essence Ceramica Skeleton COSC - Stradale Viola, 41 mm**
+
+- [Measurements](data/measurements/formex-essence-ceramica-skeleton-viola.csv)
+- [Factory COSC data](data/certificates/formex-essence-ceramica-skeleton-viola-cosc.md)
+
+Completed 2026-08-23: -28 seconds over seven days, averaging -4.00 s/day.
 
 ## Measurement protocol
 
