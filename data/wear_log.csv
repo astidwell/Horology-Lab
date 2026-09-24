@@ -1,14 +1,15 @@
-date,time,brand,watch,strap,context,reason,outfit,weather_location,weather
-2026-09-18,17:57,Tudor,Black Bay 58 GMT,,,,"blue Hokas; black linen pants; black faded Star Wars vintage T-shirt",78023,"Cloudy, ~90°F"
-2026-09-19,13:50,Formex,Field Ice Blue,"grey Archer canvas",,,"blue Hokas; black linen pants; Toshiro BLEACH shirt",78023,"Mostly cloudy, 86°F"
-2026-09-19,22:36,Tudor,Black Bay Ceramic,,,,"pajamas",78023,"Partly cloudy, 78°F"
-2026-09-20,17:01,Formex,Field Ice Blue,"grey Archer canvas","lightweight gym watch","headed to the gym","T-shirt; sweats; white Nikes",78023,"Mostly sunny, 90°F"
-2026-09-20,21:19,Tudor,Black Bay Ceramic,"Artem loopless HydroFlex","requested by Mitch","settling down for the night","jamjams",78023,"Cloudy, 85°F"
-2026-09-21,10:37,Tudor,Black Bay 58 GMT,"Uncle bracelet","workday","I wear my GMT during work","pajamas",78023,"Partly sunny, 82°F"
-2026-09-21,15:50,Formex,Field Ice Blue,"grey Archer canvas","lightweight gym watch","headed to the gym","T-shirt; sweats",78023,"Mostly sunny, 90°F"
-2026-09-21,20:58,Formex,Essence Ceramica Skeleton Viola,,"evening at home","Byte's pick","T-shirt; sweats",78023,"Cloudy, 79°F"
-2026-09-22,15:30,Formex,Field Ice Blue,"grey Archer canvas","going to work out","switched back to the Field","T-shirt; sweats; white Nikes",78023,"Partly sunny, 90°F"
-2026-09-22,20:20,Tudor,Black Bay Ceramic,"Artem loopless HydroFlex","evening at home","fresh out of the shower; pajamas; Mitch voted Ceramic","pajamas",78023,"Mostly cloudy, 82°F"
-2026-09-23,10:35,Tudor,Black Bay 58 GMT,"Uncle bracelet","workday coding","back at work coding","pajamas",78023,"Partly sunny, 83°F"
-2026-09-23,13:09,Formex,Reef,"bracelet","out with Mitch","taking Mitch to an appointment","blue T-shirt; black linen pants; blue Hokas",78023,"Partly sunny, 89°F"
-2026-09-23,19:36,Formex,Reef,"blue Formex strap","chilling at home","Mitch mentioned the blue strap","blue T-shirt; black linen pants; blue Hokas",78023,"Light rain, 84°F"
+date,time,brand,watch,strap,context,reason,outfit,weather_location,weather,notes
+2026-09-18,17:57,Tudor,Black Bay 58 GMT,,,,"blue Hokas; black linen pants; black faded Star Wars vintage T-shirt",78023,"Cloudy, ~90°F",
+2026-09-19,13:50,Formex,Field Ice Blue,"grey Archer canvas",,,"blue Hokas; black linen pants; Toshiro BLEACH shirt",78023,"Mostly cloudy, 86°F",
+2026-09-19,22:36,Tudor,Black Bay Ceramic,,,,"pajamas",78023,"Partly cloudy, 78°F",
+2026-09-20,17:01,Formex,Field Ice Blue,"grey Archer canvas","lightweight gym watch","headed to the gym","T-shirt; sweats; white Nikes",78023,"Mostly sunny, 90°F",
+2026-09-20,21:19,Tudor,Black Bay Ceramic,"Artem loopless HydroFlex","requested by Mitch","settling down for the night","jamjams",78023,"Cloudy, 85°F",
+2026-09-21,10:37,Tudor,Black Bay 58 GMT,"Uncle bracelet","workday","I wear my GMT during work","pajamas",78023,"Partly sunny, 82°F",
+2026-09-21,15:50,Formex,Field Ice Blue,"grey Archer canvas","lightweight gym watch","headed to the gym","T-shirt; sweats",78023,"Mostly sunny, 90°F",
+2026-09-21,20:58,Formex,Essence Ceramica Skeleton Viola,,"evening at home","Byte's pick","T-shirt; sweats",78023,"Cloudy, 79°F",
+2026-09-22,15:30,Formex,Field Ice Blue,"grey Archer canvas","going to work out","switched back to the Field","T-shirt; sweats; white Nikes",78023,"Partly sunny, 90°F",
+2026-09-22,20:20,Tudor,Black Bay Ceramic,"Artem loopless HydroFlex","evening at home","fresh out of the shower; pajamas; Mitch voted Ceramic","pajamas",78023,"Mostly cloudy, 82°F",
+2026-09-23,10:35,Tudor,Black Bay 58 GMT,"Uncle bracelet","workday coding","back at work coding","pajamas",78023,"Partly sunny, 83°F",
+2026-09-23,13:09,Formex,Reef,"bracelet","out with Mitch","taking Mitch to an appointment","blue T-shirt; black linen pants; blue Hokas",78023,"Partly sunny, 89°F",
+2026-09-23,19:36,Formex,Reef,"blue Formex strap","chilling at home","Mitch mentioned the blue strap","blue T-shirt; black linen pants; blue Hokas",78023,"Light rain, 84°F",
+2026-09-23,23:09,Tudor,Black Bay 58 GMT,"Uncle bracelet","evening at home","wanted the weight of a bracelet","pajamas",78023,,"Mitch likes this bracelet for day-to-day wear more than the Formex bracelets; user suspects the satin finish is the reason versus shinier Formex finishing."
