@@ -16,6 +16,15 @@ See [`data/watches.csv`](data/watches.csv).
 
 ## Active experiment
 
+**Formex Reef 39.5 — Blue fossilized coral #37/50**
+
+- Baseline: 2026-10-22, 7:30 PM CDT (America/Chicago); offset 0 seconds inferred from user-designated T-0. Reference clock not specified.
+- [Measurement CSV](data/measurements/formex-reef-39-coral-037.csv)
+- Before this run: user reported approximately +10 seconds after a few hours following setting. Exact elapsed time unknown; no rate calculated.
+- Magnetization is suspected by the user, not confirmed. Collect signed cumulative offsets without resetting during the run.
+
+## Previous experiment
+
 **Tudor Black Bay Ceramic (BBC), reference 79210CNU**
 
 - Baseline: 2026-08-24, 10:10 PM CDT; offset 0 seconds against time.gov.
