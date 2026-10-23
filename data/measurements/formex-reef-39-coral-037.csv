@@ -1,2 +1,3 @@
 timestamp_local,reference,offset_seconds,wear_hours_since_previous,rest_position,manual_winds,notes
 2026-10-22T19:30:00-05:00,,0,,,,"T-0 requested by user at 7:30 PM today (America/Chicago). Zero-offset synchronization inferred from T-0; reference clock not specified. Before this run user reported approximately +10 seconds after a few hours following setting; exact elapsed time unknown, so no rate calculated. Magnetization suspected by user, not confirmed. Wear and winding details unreported."
+2026-10-23T00:13:00-05:00,,3,,,,"User reported +3 seconds cumulative at 12:13 AM CDT. Elapsed since T-0: 4 hours 43 minutes; provisional average +15.27 seconds/day assuming baseline 0. Short interval; magnetization not confirmed. Wear and winding details unreported."
