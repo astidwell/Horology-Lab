@@ -23,6 +23,8 @@ See [`data/watches.csv`](data/watches.csv).
 - Before this run: user reported approximately +10 seconds after a few hours following setting. Exact elapsed time unknown; no rate calculated.
 - Magnetization is suspected by the user, not confirmed. Collect signed cumulative offsets without resetting during the run.
 
+Latest Reef reading: **+3 seconds cumulative** at 2026-10-23, 12:13 AM CDT, 4 hours 43 minutes after T-0. Provisional average: **+15.27 s/day**, assuming the baseline offset was zero. This short interval does not establish a long-term rate or confirm magnetization.
+
 ## Previous experiment
 
 **Tudor Black Bay Ceramic (BBC), reference 79210CNU**
