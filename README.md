@@ -23,7 +23,7 @@ See [`data/watches.csv`](data/watches.csv).
 - Before this run: user reported approximately +10 seconds after a few hours following setting. Exact elapsed time unknown; no rate calculated.
 - Magnetization is suspected by the user, not confirmed. Collect signed cumulative offsets without resetting during the run.
 
-Latest Reef reading: **+19 seconds cumulative** at 2026-10-23, 7:30 PM CDT, exactly 24 hours after T-0. Day 1 average: **+19.00 s/day**, assuming the baseline offset was zero. First 12 hours: +9 seconds; second 12 hours: +10 seconds. Since the previous reading: +5 seconds over 6 hours 50 minutes (**+17.56 s/day**). User confirmed winding before the run and wearing overnight, and reports noticing fast running on previous wears. One day does not establish long-term stability or confirm magnetization.
+Latest Reef reading: **+37 seconds cumulative** at 2026-10-24, 9:16 AM CDT, 37 hours 46 minutes after T-0. Overall average: **+23.51 s/day**, assuming baseline zero. Dial-up rest since the previous reading: +18 seconds over 13 hours 46 minutes (**+31.38 s/day**), compared with +19 seconds over the first wrist-worn 24 hours. This suggests condition-dependent variation but does not isolate position from state of wind or establish the cause. User confirmed winding before the run and wearing the first overnight, and reports noticing fast running on previous wears. Magnetization remains unconfirmed.
 
 ## Previous experiment
 
