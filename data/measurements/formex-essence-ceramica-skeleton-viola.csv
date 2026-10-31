@@ -7,3 +7,4 @@ timestamp_local,reference,offset_seconds,wear_hours_since_previous,rest_position
 2026-08-21T22:10:00-05:00,time.gov,-22,24,wrist,0,"Day 5 reading; cumulative offset -22 seconds. Worn continuously including sleep."
 2026-08-22T22:09:00-05:00,time.gov,-26,23.983,wrist,0,"Day 6 reading; cumulative offset -26 seconds. Worn continuously including sleep."
 2026-08-23T22:10:00-05:00,time.gov,-28,24.017,wrist,0,"Day 7 final reading; cumulative offset -28 seconds. Worn continuously including sleep. Seven-day wrist test complete."
+2026-10-31T18:54:00-05:00,manual reset,20,0,wrist,0,"New tracking baseline; watch intentionally set +20 seconds fast. Future readings should be interpreted relative to this reset, not the August test endpoint."
